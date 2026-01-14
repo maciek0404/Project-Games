@@ -7,4 +7,4 @@ This website presents three video games selected and described by members of our
 ## Game Pages Created by the Group
 
 - [Counter-Strike 2 (Maciej Świder)](counterstrike2_MS.md)
-
+- [The Witcher 3 (Jakub Łapczyński)](TheWitcher3.md)
