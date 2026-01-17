@@ -21,9 +21,9 @@ Gra jest znana z rozbudowanej fabuły, głębokich postaci i moralnie złożonyc
 - [Oficjalna strona CD Projekt RED](https://www.cdprojekt.com/pl/gry/wiedzmin-3-dziki-gon/)  
 
 ## Tabela głównych platform i wydania
-| Platforma       | Data wydania |
-|---------------|---------|
-| PC  | 19 Maj 2015 |
-| PlayStation 4         | 19 Maj 2015 |
-| Xbox One     | 19 Maj 2015 |
-| Nintendo Switch   | 15 Paź 2019 |
+| Platforma      | Data wydania |
+|----------------|--------------|
+| PC             | 19 Maj 2015  |
+| PlayStation 4  | 19 Maj 2015  |
+| Xbox One       | 19 Maj 2015  |
+| Nintendo Switch| 15 Paź 2019  |
